@@ -5,8 +5,8 @@
 </h1>
 
 <p align="center">
-  <strong>Building Scalable, Efficient, and User-Centric Applications</strong><br>
-  Specializing in Web Development, Backend Systems, and AI Solutions
+  <strong>Data analyst Python Developer</strong><br>
+  
 </p>
 
 ---</h1>
