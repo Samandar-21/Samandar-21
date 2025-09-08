@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>Data analyst Python Developer</strong><br>
+  <strong>Data analyst and Python Developer</strong><br>
   
 </p>
 
